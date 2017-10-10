@@ -1,7 +1,10 @@
 {
   "name": "shopping-cart",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": false,
+  "engines": {
+    "node": "8.2.0"
+  },
   "scripts": {
     "start": "node ./bin/www"
   },
